@@ -21,6 +21,7 @@ $Commands = [PSCustomObject]@{
     #"lyra2v2" = "" #Lyra2RE2
     "lyra2z" = "" #Lyra2z
     #"myr-gr" = "" #MyriadGroestl
+    "m7m" = "" #M7m
     #"neoscrypt" = "" #NeoScrypt
     #"nist5" = "" #Nist5
     #"pascal" = "" #Pascal
